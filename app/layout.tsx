@@ -7,7 +7,7 @@ const DESCRIPTION =
   "Morph is an AI-powered browser extension that lets you redesign any website with a single sentence. Add tools, remove distractions, and rebuild interfaces — instantly, safely, and on every site.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://morph.new"),
+  metadataBase: new URL("https://morph-pearl.vercel.app"),
   title: TITLE,
   description: DESCRIPTION,
   applicationName: "Morph",
